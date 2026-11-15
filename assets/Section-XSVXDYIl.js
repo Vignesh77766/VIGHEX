@@ -1,0 +1,1 @@
+import{c as e}from"./index-O2-2EIY6.js";import{t}from"./jsx-runtime-D3Pqcg9K.js";var n=t();function r({id:t,theme:r=`light`,className:i=``,labelledBy:a,children:o}){let[s,c]=e(.08);return(0,n.jsx)(`section`,{ref:s,id:t,"data-theme":r,"aria-labelledby":a,className:`section${c?` is-visible`:``} ${i}`,children:(0,n.jsx)(`div`,{className:`container`,children:o})})}export{r as t};
